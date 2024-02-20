@@ -1,0 +1,196 @@
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+  }
+  header {
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+   
+  }
+  .front{
+    background-image: url("image/iphone\ titanum.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 600px;
+    padding-top: 100px;
+    
+  }
+  .one{
+     color:white;
+  }
+  .two{
+    color:white;
+  }
+  h1{
+    font-size: 52px;
+    font-weight: 500;
+    letter-spacing: -1px;
+  
+  }
+
+  h3{
+    margin-top: 3px;
+    font-size: 26px;
+    font-weight: 400;
+  
+  }
+ .front1{
+  background-image: url("image/iphone\ 1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 600px;
+  padding-top: 60px;
+  padding-bottom: 30PX;
+ }
+ .front1 h1{
+  font-size: 52px;
+  font-weight: 500;
+  letter-spacing: -1px;
+ }
+ .front1 h3{
+  margin-top: 3px;
+  font-size: 26px;
+  font-weight: 400;
+ }
+ .section4{
+     padding-top:15px ;
+ }
+ .front2{
+  background-image: url("image/vision1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  padding-top: 320px ;
+  text-align: center;
+  color: black;
+
+ }
+.vision{
+  margin-top: 350px;
+}
+.main5{
+  margin-top: 20px;
+}
+.front3{
+  background-image: url("image/series.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;
+  padding-top: 90px;
+  text-align: center;
+   
+}
+.front4{
+  background-image: url("image/mackbook.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;  
+  padding-top: 55px;
+  text-align: center;
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+a{
+  font-size: 21px;
+  font-weight: 400;
+  color: var(--a);
+}
+h4{
+ font-size: 20px;
+ font-weight: 500;
+  color:white;
+  margin-top: 10px;
+}
+.mac{
+  font-size: 40px;
+  font-weight: bold;
+}
+.mac1{
+  font-size: 25px;
+  font-weight: lighter;
+}
+.front5{
+  background-image: url("image/ipad.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;  
+  padding-top: 55px;
+  text-align: center;
+}
+.front6{
+  background-image: url("image/airpods.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;  
+  padding-top: 90px;
+  text-align: center;
+  color: white;
+}
+
+.front7{
+  background-image: url("image/apple\ card.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;  
+  padding-top: 40px;
+  text-align: center;
+}
+.front8{
+  background-image: url("image/iphone\ tradein.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  height: 500px;  
+  padding-top: 40px;
+  text-align: center;
+}
+
+footer{
+  width: 100%;
+  background: rgba(245, 245, 247, 1);
+  list-style: none;
+  color: gray;
+  font-size: 12px;
+  padding-top: 20px;
+  
+}
+.first li{
+  padding: 3px;
+}
+h6{
+  font-size: 13px;
+  color: #343434;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.more a{
+  font-size: 13px;
+  color: skyblue;
+}
+.more1 a{
+  font-size: 13px;
+  font-weight: bold;
+}
+.more2{
+  padding-top: 30px;
+}
+
